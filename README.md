@@ -5,7 +5,7 @@ This is the fullstack app for the [Apollo tutorial](http://apollographql.com/doc
 ## File structure
 
 The app is split out into two folders:
-- `start`: Starting point for the tutorial
+- `start`: Starting point for the tutorial (followed along in this folder)
 - `final`: Final version
 
 From within the `start` and `final` directories, there are two folders (one for `server` and one for `client`).
